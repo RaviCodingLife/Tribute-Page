@@ -1,0 +1,35 @@
+
+        body {
+            background-color: #00FA9A;
+            margin: 20%;
+        }
+ 
+        img {
+            display: inline-block;
+            margin-left: 600px;
+            justify-content: center;
+        }
+ 
+
+        div#tribute-data {
+            background-color: rgb(46, 139, 87, 0.25);
+            box-shadow: 20px 20px 20px #98FB98;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+        
+        footer{
+            background-color: #55efc4;
+            box-shadow: 20px 20px 20px coral;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+        }
